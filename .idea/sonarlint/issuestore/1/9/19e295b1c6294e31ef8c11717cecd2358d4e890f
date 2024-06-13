@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö³È“úÿÿÿÿ8©ë½¸ó1
+\
+java:S1854	":Remove this useless assignment to local variable "height".(ÛÊíÆşÿÿÿÿ8†¶Í¸ó1
+M
+java:S1481	"+Remove this unused "height" local variable.(ÛÊíÆşÿÿÿÿ8›¶Í¸ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(€ĞÏµøÿÿÿÿ8Êë½¸ó1
+L	java:S106"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ8ÆÇÍ¸ó1

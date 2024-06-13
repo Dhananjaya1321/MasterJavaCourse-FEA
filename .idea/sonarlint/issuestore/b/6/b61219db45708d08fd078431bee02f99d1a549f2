@@ -1,0 +1,27 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa8´ØîÊş1
+K
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa8µØîÊş1
+Q
+java:S3740<"/Provide the parametrized type for this generic.(ê–Ùùÿÿÿÿ8µØîÊş1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÍ‰8ºØîÊş1
+X	java:S125	"<This block of commented-out lines of code should be removed.(¾ÒÏÇ8æØîÊş1
+G	java:S106"+Replace this use of System.out by a logger.(ÌÄ×ƒ8ëØîÊş1
+G	java:S106"+Replace this use of System.out by a logger.(ßğ¶8ìØîÊş1
+G	java:S106"+Replace this use of System.out by a logger.(Ê¼ı½8íØîÊş1
+G	java:S106"+Replace this use of System.out by a logger.(Ššç8îØîÊş1
+L	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ğØîÊş1
+G	java:S106$"+Replace this use of System.out by a logger.(è•şâ8óØîÊş1
+G	java:S106%"+Replace this use of System.out by a logger.(Åï¯½8ôØîÊş1
+G	java:S106&"+Replace this use of System.out by a logger.(İÏ¥ÿ8õØîÊş1
+L	java:S106'"+Replace this use of System.out by a logger.(í„øÂıÿÿÿÿ8öØîÊş1
+G	java:S106("+Replace this use of System.out by a logger.(ê“Œ8÷ØîÊş1
+G	java:S106*"+Replace this use of System.out by a logger.(Û‡Üå8øØîÊş1
+G	java:S106."+Replace this use of System.out by a logger.(Û‡Üå8ûØîÊş1
+L	java:S106;"+Replace this use of System.out by a logger.(ß¤¦©úÿÿÿÿ8ÚÆïÊş1
+L	java:S106A"+Replace this use of System.out by a logger.(ÍÄÏ³øÿÿÿÿ8ĞüñÊş1
+G	java:S106B"+Replace this use of System.out by a logger.(æµÀ8Ü óÊş1
+L	java:S106C"+Replace this use of System.out by a logger.(çÏ–ûÿÿÿÿ8à ûÊş1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¿ùÊş1

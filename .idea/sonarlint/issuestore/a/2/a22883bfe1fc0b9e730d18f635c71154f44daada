@@ -1,0 +1,19 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8­´ËÅú1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª²äÛ8¯´ËÅú1
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8¯´ËÅú1
+V
+java:S1854
+":Remove this useless assignment to local variable "random".(¼İÅf8Ã´ËÅú1
+Z
+java:S1854	"8Remove this useless assignment to local variable "ints".(ºÙ—ïÿÿÿÿÿ8Ä´ËÅú1
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8Ä´ËÅú1
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8Ò´ËÅú1
+K
+java:S1481	")Remove this unused "ints" local variable.(ºÙ—ïÿÿÿÿÿ8Ò´ËÅú1
+G
+java:S1481
+"+Remove this unused "random" local variable.(¼İÅf8å´ËÅú1

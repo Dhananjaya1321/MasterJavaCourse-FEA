@@ -1,0 +1,63 @@
+
+h
+java:S1192("FDefine a constant instead of duplicating this literal "isuru" 7 times.(ô¤ğÜùÿÿÿÿ8å¨¿Şğ1
+^
+java:S4973("<Strings and Boxed types should be compared using "equals()".(ô¤ğÜùÿÿÿÿ8æ¨¿Şğ1
+Y
+java:S4973+"<Strings and Boxed types should be compared using "equals()".(û…ÌŸ8ç¨¿Şğ1
+X
+java:S4973,"<Strings and Boxed types should be compared using "equals()".(á¾Ö{8è¨¿Şğ1
+^
+java:S49733"<Strings and Boxed types should be compared using "equals()".(¿Ä™áÿÿÿÿÿ8è¨¿Şğ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÕäŒùÿÿÿÿ8é¨¿Şğ1
+G	java:S106"+Replace this use of System.out by a logger.(ìÈ‹’8‡©¿Şğ1
+F	java:S106"+Replace this use of System.out by a logger.(¨ÃşK8ˆ©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(î‚‘øÿÿÿÿ8ˆ©¿Şğ1
+G	java:S106	"+Replace this use of System.out by a logger.(Â«¥8‰©¿Şğ1
+L	java:S106
+"+Replace this use of System.out by a logger.(Û—™óùÿÿÿÿ8‰©¿Şğ1
+F	java:S106"+Replace this use of System.out by a logger.(üâ£A8Š©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(îë¼§ıÿÿÿÿ8Š©¿Şğ1
+G	java:S106"+Replace this use of System.out by a logger.(Êî¬¢8Š©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(Ç³Îşÿÿÿÿ8‹©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(Ü’ù¶üÿÿÿÿ8‹©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(êÔ”Ÿûÿÿÿÿ8Œ©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(Ê­ªşûÿÿÿÿ8Œ©¿Şğ1
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator ">="(Ê­ªşûÿÿÿÿ8Œ©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(š¾áÿÿÿÿÿ8©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(€ˆúÿÿÿÿ8©¿Şğ1
+F	java:S106"+Replace this use of System.out by a logger.(íÕ¬8©¿Şğ1
+G	java:S106"+Replace this use of System.out by a logger.(¯­Çâ8©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(è°­¥ûÿÿÿÿ8©¿Şğ1
+G	java:S106"+Replace this use of System.out by a logger.(İ™˜³8©¿Şğ1
+F	java:S106"+Replace this use of System.out by a logger.(ÛÛö_8©¿Şğ1
+G	java:S106"+Replace this use of System.out by a logger.(¼ ¼8©¿Şğ1
+h
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "<="(¼ ¼8©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(‡ŞÈşÿÿÿÿ8©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(ÜÑÓüÿÿÿÿ8©¿Şğ1
+L	java:S106"+Replace this use of System.out by a logger.(¾¯âıøÿÿÿÿ8‘©¿Şğ1
+G	java:S106 "+Replace this use of System.out by a logger.(’İŞÍ8‘©¿Şğ1
+h
+java:S1764 "KCorrect one of the identical sub-expressions on both sides of operator "=="(’İŞÍ8‘©¿Şğ1
+L	java:S106!"+Replace this use of System.out by a logger.(©ŒæØşÿÿÿÿ8’©¿Şğ1
+L	java:S106#"+Replace this use of System.out by a logger.(åüøÆúÿÿÿÿ8’©¿Şğ1
+G	java:S106$"+Replace this use of System.out by a logger.(µ’ÿ°8“©¿Şğ1
+h
+java:S1764$"KCorrect one of the identical sub-expressions on both sides of operator "!="(µ’ÿ°8“©¿Şğ1
+L	java:S106%"+Replace this use of System.out by a logger.(ğ¨¬Ãûÿÿÿÿ8”©¿Şğ1
+L	java:S106'"+Replace this use of System.out by a logger.(§‡ßÊøÿÿÿÿ8•©¿Şğ1
+L	java:S106("+Replace this use of System.out by a logger.(ô¤ğÜùÿÿÿÿ8•©¿Şğ1
+m
+java:S1764("KCorrect one of the identical sub-expressions on both sides of operator "=="(ô¤ğÜùÿÿÿÿ8–©¿Şğ1
+G	java:S106+"+Replace this use of System.out by a logger.(û…ÌŸ8—©¿Şğ1
+F	java:S106,"+Replace this use of System.out by a logger.(á¾Ö{8—©¿Şğ1
+B
+java:S2129." Remove this "String" constructor( –üÁúÿÿÿÿ8œ©¿Şğ1
+=
+java:S2129/" Remove this "String" constructor(Ãìëÿ8©¿Şğ1
+L	java:S1060"+Replace this use of System.out by a logger.(•Î¡öıÿÿÿÿ8©¿Şğ1
+G	java:S1061"+Replace this use of System.out by a logger.(¹§ å8©¿Şğ1
+L	java:S1063"+Replace this use of System.out by a logger.(¿Ä™áÿÿÿÿÿ8Ÿ©¿Şğ1
+F	java:S1064"+Replace this use of System.out by a logger.(ú£¾8Ÿ©¿Şğ1

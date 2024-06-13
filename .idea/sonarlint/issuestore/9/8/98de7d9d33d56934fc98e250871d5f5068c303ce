@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À³Òøÿÿÿÿ8È§“øı1
+`
+java:S3518"CMake sure this expression can't be zero before doing this division.(¡úÏÊ8î§“øı1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8Ô¨“øı1
+C
+java:S1481"&Remove this unused "a" local variable.(¡úÏÊ8×¨“øı1
+G	java:S106"+Replace this use of System.out by a logger.(‘§ôş8Ú¨“øı1
+G	java:S106 "+Replace this use of System.out by a logger.(ñ·¤¬8Ü¨“øı1
+L	java:S106""+Replace this use of System.out by a logger.(»â”üúÿÿÿÿ8İ¨“øı1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ãæ”øı1

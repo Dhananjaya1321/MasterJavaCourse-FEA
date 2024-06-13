@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ŒÕ£8òŠêóû1
+>
+java:S1170"!Make this final field static too.(“õ²£8ôŠêóû1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“õ²£8¬Ìõóû1
+\
+java:S1854"?Remove this useless assignment to local variable "finalValue2".(°±È†8Õ•ñóû1
+M
+java:S1481"0Remove this unused "finalValue2" local variable.(°±È†8÷Šêóû1

@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö³È“úÿÿÿÿ8¾äÎó1
+L	java:S106"+Replace this use of System.out by a logger.(ÉÎÊ¬ıÿÿÿÿ8µ¾äÎó1
+X	java:S125"<This block of commented-out lines of code should be removed.(’öªÂ8¶¾äÎó1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÄÛ„ûÿÿÿÿ8·¾äÎó1
+]	java:S125"<This block of commented-out lines of code should be removed.(Åºèäûÿÿÿÿ8»¾äÎó1
+G	java:S106"+Replace this use of System.out by a logger.(’ïØ8¼¾äÎó1
+6
+java:S2178"Correct this "&" to "&&".(’ïØ8½¾äÎó1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8½¾äÎó1
+L	java:S106 "+Replace this use of System.out by a logger.(ôÑÌİÿÿÿÿÿ8€«æÎó1
+L	java:S106!"+Replace this use of System.out by a logger.(©µªßşÿÿÿÿ8•çÎó1
+;
+java:S2178!"Correct this "|" to "||".(©µªßşÿÿÿÿ8ÖùåÎó1
+G	java:S106#"+Replace this use of System.out by a logger.(‹…ßÅ8…ìùÎó1
+L	java:S106$"+Replace this use of System.out by a logger.(ë®Çğùÿÿÿÿ8ïÎşÎó1
+G	java:S106&"+Replace this use of System.out by a logger.(Îªêã8Â„ƒÏó1
+L	java:S106'"+Replace this use of System.out by a logger.(¬­İÿÿÿÿÿ8«³„Ïó1
+L	java:S106("+Replace this use of System.out by a logger.(ã¯Çúÿÿÿÿ8Ğş„Ïó1
+L	java:S106*"+Replace this use of System.out by a logger.(Ô®ïŸıÿÿÿÿ8éÓ‡Ïó1
+I
+java:S1125*"'Remove the unnecessary boolean literal.(Ô®ïŸıÿÿÿÿ8¼÷‡Ïó1
+L	java:S106+"+Replace this use of System.out by a logger.(ò¿Ñôüÿÿÿÿ8éÓ‡Ïó1
+I
+java:S1125+"'Remove the unnecessary boolean literal.(ò¿Ñôüÿÿÿÿ8Š’ˆÏó1

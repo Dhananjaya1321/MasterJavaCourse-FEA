@@ -1,0 +1,91 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ι§¥ÿÿÿÿÿ8ΠΕγξό1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ–Ώ°8ΠΕγξό1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ωΛΘÿÿÿÿÿ8ΠΕγξό1
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χΑ©υόÿÿÿÿ8ΠΕγξό1
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Υ‚λ―ϋÿÿÿÿ8ΡΕγξό1
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϊ·Ωϊÿÿÿÿ8ΡΕγξό1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒβ·ΰωÿÿÿÿ8ΡΕγξό1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΝΧξόÿÿÿÿ8ΡΕγξό1
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Αργωÿÿÿÿ8ΡΕγξό1
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–’¥ωÿÿÿÿ8ΡΕγξό1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΉΝνωÿÿÿÿ8ΡΕγξό1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΐ‰¬Ϋ8ÒΕγξό1
+X
+java:S18544"6Remove this useless assignment to local variable "Bo".(–’¥ωÿÿÿÿ8ίΕγξό1
+W
+java:S18541"5Remove this useless assignment to local variable "D".(Αργωÿÿÿÿ8ίΕγξό1
+W
+java:S1854."5Remove this useless assignment to local variable "F".(ΝΧξόÿÿÿÿ8ίΕγξό1
+W
+java:S1854+"5Remove this useless assignment to local variable "C".(ƒβ·ΰωÿÿÿÿ8ίΕγξό1
+W
+java:S1854("5Remove this useless assignment to local variable "L".(Ϊ·Ωϊÿÿÿÿ8ίΕγξό1
+T
+java:S1854%"7Remove this useless assignment to local variable "iii".(λΦέΜ8ίΕγξό1
+X
+java:S1854$"6Remove this useless assignment to local variable "ii".(τ„πΰόÿÿÿÿ8ίΕγξό1
+W
+java:S1854"5Remove this useless assignment to local variable "S".(½ωΛΘÿÿÿÿÿ8ίΕγξό1
+S
+java:S1854"6Remove this useless assignment to local variable "BB".(ψ–Ώ°8ΰΕγξό1
+W
+java:S1854"5Remove this useless assignment to local variable "B".(Ι§¥ÿÿÿÿÿ8ΰΕγξό1
+L	java:S106"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8δΕγξό1
+G	java:S106"+Replace this use of System.out by a logger.(Ό«Ι³8εΕγξό1
+L	java:S106"+Replace this use of System.out by a logger.(ύΤήΩÿÿÿÿÿ8ζΕγξό1
+L	java:S106"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8ηΕγξό1
+C
+java:S1481"&Remove this unused "b" local variable.(Ξ ¬ά8θΕγξό1
+@
+java:S2129"Remove this "Byte" constructor(Ι§¥ÿÿÿÿÿ8ιΕγξό1
+H
+java:S1481"&Remove this unused "B" local variable.(Ι§¥ÿÿÿÿÿ8κΕγξό1
+D
+java:S1481"'Remove this unused "BB" local variable.(ψ–Ώ°8κΕγξό1
+H
+java:S1481"&Remove this unused "s" local variable.(Ό„Ίρόÿÿÿÿ8κΕγξό1
+A
+java:S2129"Remove this "Short" constructor(½ωΛΘÿÿÿÿÿ8λΕγξό1
+H
+java:S1481"&Remove this unused "S" local variable.(½ωΛΘÿÿÿÿÿ8λΕγξό1
+I
+java:S1481 "'Remove this unused "SS" local variable.(χΑ©υόÿÿÿÿ8μΕγξό1
+C
+java:S2129#"!Remove this "Integer" constructor(Υ‚λ―ϋÿÿÿÿ8νΕγξό1
+I
+java:S1481$"'Remove this unused "ii" local variable.(τ„πΰόÿÿÿÿ8ξΕγξό1
+E
+java:S1481%"(Remove this unused "iii" local variable.(λΦέΜ8ξΕγξό1
+H
+java:S1481'"&Remove this unused "l" local variable.(όΞή€ψÿÿÿÿ8ξΕγξό1
+@
+java:S2129("Remove this "Long" constructor(Ϊ·Ωϊÿÿÿÿ8πΕγξό1
+H
+java:S1481("&Remove this unused "L" local variable.(Ϊ·Ωϊÿÿÿÿ8ρΕγξό1
+C
+java:S1481*"&Remove this unused "c" local variable.(ΣΎ“8ρΕγξό1
+E
+java:S2129+"#Remove this "Character" constructor(ƒβ·ΰωÿÿÿÿ8τΕγξό1
+H
+java:S1481+"&Remove this unused "C" local variable.(ƒβ·ΰωÿÿÿÿ8υΕγξό1
+C
+java:S1481-"&Remove this unused "f" local variable.(ΗΛόπ8υΕγξό1
+A
+java:S2129."Remove this "Float" constructor(ΝΧξόÿÿÿÿ8φΕγξό1
+H
+java:S1481."&Remove this unused "F" local variable.(ΝΧξόÿÿÿÿ8φΕγξό1
+H
+java:S14810"&Remove this unused "d" local variable.(ξ³Άÿÿÿÿÿ8φΕγξό1
+B
+java:S21291" Remove this "Double" constructor(Αργωÿÿÿÿ8χΕγξό1
+H
+java:S14811"&Remove this unused "D" local variable.(Αργωÿÿÿÿ8ψΕγξό1
+D
+java:S14813"'Remove this unused "bo" local variable.(²‰ϊέ8ψΕγξό1
+C
+java:S21294"!Remove this "Boolean" constructor(–’¥ωÿÿÿÿ8ψΕγξό1
+I
+java:S14814"'Remove this unused "Bo" local variable.(–’¥ωÿÿÿÿ8ωΕγξό1
+J
+java:S14815"(Remove this unused "BOO" local variable.(ΉΝνωÿÿÿÿ8ωΕγξό1

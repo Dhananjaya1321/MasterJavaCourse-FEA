@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÅØàùÿÿÿÿ8éÚĞÌú1
+L	java:S106
+"+Replace this use of System.out by a logger.(£÷äıÿÿÿÿ8€ÛĞÌú1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ÿÚĞÌú1
+G	java:S106"+Replace this use of System.out by a logger.(†‡ŞË8ÒÂÒÌú1
+F	java:S106"+Replace this use of System.out by a logger.(Ó‰¸8Û«ÕÌú1
+F	java:S106"+Replace this use of System.out by a logger.(Ó‰¸8ÙÛÌú1
+]	java:S125 "<This block of commented-out lines of code should be removed.(‘Ç»¯øÿÿÿÿ8‚ÛĞÌú1
+X
+java:S2696)"6Make the enclosing method "static" or remove this set.(ÒÏ…˜ÿÿÿÿÿ8ƒÛĞÌú1
+W
+java:S2209)"5Change this instance-reference to a static reference.(ÒÏ…˜ÿÿÿÿÿ8ƒÛĞÌú1
